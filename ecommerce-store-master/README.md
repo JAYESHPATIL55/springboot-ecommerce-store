@@ -1,6 +1,6 @@
 # E-commerce Store API
 
-[![CI/CD Pipeline](https://github.com/prasadus92/ecommerce-store/actions/workflows/ci.yml/badge.svg)](https://github.com/prasadus92/ecommerce-store/actions/workflows/ci.yml)
+[![CI/CD Pipeline](https://github.com/JAYESHPATIL55/springboot-ecommerce-store/actions/workflows/ci.yml/badge.svg)](https://github.com/JAYESHPATIL55/springboot-ecommerce-store/actions/workflows/ci.yml)
 [![Java](https://img.shields.io/badge/Java-21-blue.svg)](https://openjdk.org/projects/jdk/21/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.5-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -45,8 +45,8 @@ A production-grade RESTful API for e-commerce operations built with modern Java 
 
 ```bash
 # Clone the repository
-git clone https://github.com/prasadus92/ecommerce-store.git
-cd ecommerce-store
+git clone https://github.com/JAYESHPATIL55/springboot-ecommerce-store.git
+cd springboot-ecommerce-store
 
 # Build the project
 mvn clean install
